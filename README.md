@@ -114,11 +114,3 @@ The exporter produces a human-readable packing solution describing bins, assigne
 
 ## License
 No license file is included in the repository. If you intend to share or reuse this project, add a LICENSE file (MIT, Apache-2.0, or other) to clarify reuse terms.
-
-## Author
-Repository owner: AlanW0320
-
-If you'd like, I can:
-- Add a polished CLI usage section based on Main.java’s actual argument parsing,
-- Create a CONTRIBUTING.md template,
-- Add a simple shell script to compile & run the common use-cases.
