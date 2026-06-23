@@ -1,0 +1,306 @@
+Bin 1:
+  Item 1: 14.0
+  Item 2: 85.0
+  *Total Load: 99.0kg
+
+Bin 2:
+  Item 3: 17.0
+  Item 4: 43.0
+  Item 5: 18.0
+  *Total Load: 78.0kg
+
+Bin 3:
+  Item 6: 46.0
+  *Total Load: 46.0kg
+
+Bin 4:
+  Item 7: 64.0
+  *Total Load: 64.0kg
+
+Bin 5:
+  Item 8: 69.0
+  *Total Load: 69.0kg
+
+Bin 6:
+  Item 9: 84.0
+  *Total Load: 84.0kg
+
+Bin 7:
+  Item 10: 87.0
+  *Total Load: 87.0kg
+
+Bin 8:
+  Item 11: 97.0
+  *Total Load: 97.0kg
+
+Bin 9:
+  Item 12: 91.0
+  *Total Load: 91.0kg
+
+Bin 10:
+  Item 13: 61.0
+  *Total Load: 61.0kg
+
+Bin 11:
+  Item 14: 67.0
+  Item 15: 9.0
+  *Total Load: 76.0kg
+
+Bin 12:
+  Item 16: 45.0
+  Item 17: 21.0
+  Item 18: 28.0
+  *Total Load: 94.0kg
+
+Bin 13:
+  Item 19: 75.0
+  *Total Load: 75.0kg
+
+Bin 14:
+  Item 20: 83.0
+  Item 21: 16.0
+  *Total Load: 99.0kg
+
+Bin 15:
+  Item 22: 88.0
+  *Total Load: 88.0kg
+
+Bin 16:
+  Item 23: 27.0
+  Item 24: 25.0
+  *Total Load: 52.0kg
+
+Bin 17:
+  Item 25: 58.0
+  *Total Load: 58.0kg
+
+Bin 18:
+  Item 26: 74.0
+  *Total Load: 74.0kg
+
+Bin 19:
+  Item 27: 50.0
+  Item 28: 35.0
+  *Total Load: 85.0kg
+
+Bin 20:
+  Item 29: 44.0
+  Item 30: 6.0
+  Item 31: 15.0
+  *Total Load: 65.0kg
+
+Bin 21:
+  Item 32: 51.0
+  *Total Load: 51.0kg
+
+Bin 22:
+  Item 33: 62.0
+  *Total Load: 62.0kg
+
+Bin 23:
+  Item 34: 95.0
+  *Total Load: 95.0kg
+
+Bin 24:
+  Item 35: 20.0
+  Item 36: 55.0
+  *Total Load: 75.0kg
+
+Bin 25:
+  Item 37: 31.0
+  Item 38: 37.0
+  Item 39: 11.0
+  Item 40: 3.0
+  *Total Load: 82.0kg
+
+Bin 26:
+  Item 41: 89.0
+  *Total Load: 89.0kg
+
+Bin 27:
+  Item 42: 81.0
+  Item 43: 12.0
+  *Total Load: 93.0kg
+
+Bin 28:
+  Item 44: 100.0
+  *Total Load: 100.0kg
+
+Bin 29:
+  Item 45: 68.0
+  Item 46: 8.0
+  Item 47: 2.0
+  *Total Load: 78.0kg
+
+Bin 30:
+  Item 48: 53.0
+  *Total Load: 53.0kg
+
+Bin 31:
+  Item 49: 54.0
+  *Total Load: 54.0kg
+
+Bin 32:
+  Item 50: 73.0
+  *Total Load: 73.0kg
+
+Bin 33:
+  Item 51: 92.0
+  Item 52: 1.0
+  *Total Load: 93.0kg
+
+Bin 34:
+  Item 53: 56.0
+  *Total Load: 56.0kg
+
+Bin 35:
+  Item 54: 93.0
+  *Total Load: 93.0kg
+
+Bin 36:
+  Item 55: 71.0
+  *Total Load: 71.0kg
+
+Bin 37:
+  Item 56: 49.0
+  Item 57: 48.0
+  *Total Load: 97.0kg
+
+Bin 38:
+  Item 58: 72.0
+  *Total Load: 72.0kg
+
+Bin 39:
+  Item 59: 60.0
+  Item 60: 13.0
+  *Total Load: 73.0kg
+
+Bin 40:
+  Item 61: 66.0
+  Item 62: 7.0
+  *Total Load: 73.0kg
+
+Bin 41:
+  Item 63: 33.0
+  Item 64: 38.0
+  Item 65: 22.0
+  *Total Load: 93.0kg
+
+Bin 42:
+  Item 66: 39.0
+  *Total Load: 39.0kg
+
+Bin 43:
+  Item 67: 70.0
+  *Total Load: 70.0kg
+
+Bin 44:
+  Item 68: 41.0
+  Item 69: 30.0
+  Item 70: 26.0
+  *Total Load: 97.0kg
+
+Bin 45:
+  Item 71: 98.0
+  *Total Load: 98.0kg
+
+Bin 46:
+  Item 72: 59.0
+  Item 73: 10.0
+  *Total Load: 69.0kg
+
+Bin 47:
+  Item 74: 80.0
+  Item 75: 4.0
+  *Total Load: 84.0kg
+
+Bin 48:
+  Item 76: 77.0
+  Item 77: 5.0
+  *Total Load: 82.0kg
+
+Bin 49:
+  Item 78: 36.0
+  *Total Load: 36.0kg
+
+Bin 50:
+  Item 79: 96.0
+  *Total Load: 96.0kg
+
+Bin 51:
+  Item 80: 90.0
+  Item 81: 8.0
+  *Total Load: 98.0kg
+
+Bin 52:
+  Item 82: 47.0
+  Item 83: 29.0
+  *Total Load: 76.0kg
+
+Bin 53:
+  Item 84: 79.0
+  Item 85: 19.0
+  *Total Load: 98.0kg
+
+Bin 54:
+  Item 86: 94.0
+  *Total Load: 94.0kg
+
+Bin 55:
+  Item 87: 52.0
+  Item 88: 32.0
+  *Total Load: 84.0kg
+
+Bin 56:
+  Item 89: 99.0
+  *Total Load: 99.0kg
+
+Bin 57:
+  Item 90: 2.0
+  Item 91: 42.0
+  Item 92: 34.0
+  *Total Load: 78.0kg
+
+Bin 58:
+  Item 93: 23.0
+  Item 94: 76.0
+  *Total Load: 99.0kg
+
+Bin 59:
+  Item 95: 78.0
+  *Total Load: 78.0kg
+
+Bin 60:
+  Item 96: 40.0
+  *Total Load: 40.0kg
+
+Bin 61:
+  Item 97: 63.0
+  *Total Load: 63.0kg
+
+Bin 62:
+  Item 98: 86.0
+  *Total Load: 86.0kg
+
+Bin 63:
+  Item 99: 65.0
+  Item 100: 24.0
+  *Total Load: 89.0kg
+
+Bin 64:
+  Item 101: 57.0
+  *Total Load: 57.0kg
+
+Bin 65:
+  Item 102: 50.0
+  Item 103: 9.0
+  Item 104: 34.0
+  *Total Load: 93.0kg
+
+Bin 66:
+  Item 105: 25.0
+  Item 106: 12.0
+  Item 107: 3.0
+  Item 108: 2.0
+  *Total Load: 42.0kg
+
