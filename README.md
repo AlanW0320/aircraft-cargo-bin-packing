@@ -105,12 +105,6 @@ After running, check `BinSolutionOutput.txt` or the console output for the packi
 ## Output
 The exporter produces a human-readable packing solution describing bins, assigned items, and used capacity. See `BinSolutionOutput.txt` in the repository for an example output layout.
 
-## Contributing
-- Bug reports and small fixes welcome via issues and pull requests.
-- If you add features (new algorithms, GUIs, performance benchmarks), include:
-  - Unit tests or example input files
-  - Updated README sections with usage examples
-  - A short note in the commit message describing the change
 
 ## License
 No license file is included in the repository. If you intend to share or reuse this project, add a LICENSE file (MIT, Apache-2.0, or other) to clarify reuse terms.
